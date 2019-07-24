@@ -2,7 +2,7 @@
 
 I'm tracking my progress for learning C here. Join me!
 
-## Resoures
+## Resources
 
 [Vanderbilt's Advanced Computing Center for Research and Education's C programming tutorial](https://github.com/accre/Cprogramming)
 
