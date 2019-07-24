@@ -1,6 +1,6 @@
 # Let's Learn C
 
-I'm tracking my progress for learning C here. Join me!
+I'm tracking my progress for learning C here. Join me! 💫
 
 ## Resources
 
